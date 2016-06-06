@@ -1,28 +1,28 @@
 # HyperGrid
 
-Yet another distributed, decentralized network
+另类的分布式，去中心化网络
 
-## Table of Contents (github)
+## 目录 (github)
 
-- [Hypergrid Overview](https://github.com/zypeh/hypergrid/#overview) and [Summary](https://github.com/zypeh/hypergrid/#summary)
+- [Hypergrid 概要](https://github.com/zypeh/hypergrid/#概要) 和 [简要](https://github.com/zypeh/hypergrid/#简要)
 
 
-## Overview
+## 概要
 
-Hypergrid is a new mesh network. Hypergrid enables user to create, share and running bot which is completely distributed. It aims to make the web more open.
+Hypergrid 是个崭新的架构，允许用户创造，分享，甚至能在分布式网络运行你的专属 bot。让网络更加开放
 
-## Summary
 
-Hypergrid can be a facebook:
- - Create posts with images, videos, or event messages on your local storage
- - Running daemon that serve the post on local storage
- - Waiting to be fetched by bot(s) or subscriber bot
- 
-Hypergrid can be a imgur:
- - Copy images to your local storage
- - Running daemon that serve the images on local storage
- - Waiting to be fetched by bot(s)
- 
+## 简要
+
+Hypergrid 可以像个面子书那样:
+ - 创建一个含有图片，短片，甚至是活动简介的帖文在你的本地存储
+ - 在背景运行个 daemon 来监听外来的请求
+ - 评阅 bot 和外来的 bot 会获取你的帖文头文件
+
+Hypergrid 可以是个图床:
+ - 把图片放到本地存储
+ - 在背景运行个 daemon 来监听外来的请求
+ - 外来的 bot 会获取你的帖头文件
 
 ---
 
